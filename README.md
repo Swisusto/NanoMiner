@@ -36,6 +36,8 @@ String mining_key         = "MINERKEY";     // Change this if wallet is protecte
 </code>
 <br>
 
+![PCB](https://github.com/Swisusto/NanoMiner/assets/62308320/3abdb15b-1674-4a4f-9b9c-79fa91f1458d)
+
 HAPPY MINING!!
 <br>
 For more info contact me or follow me on my patreon for more projects
