@@ -32,9 +32,12 @@ const char* rigIdentifier = "RIG_ID";  // Change this if you want a custom miner
 const char* mDNSRigIdentifier = "esp";  // Change this if you want a custom local mDNS miner name
 String mining_key         = "MINERKEY";     // Change this if wallet is protected with mining key
 </code>
+<br>
 
 HAPPY MINING!!
+<br>
 For more info contact me or follow me on my patreon for more projects
+<br>
 <a href="https://www.patreon.com/LASERandCNC">FOLLOW ME ON PATREON
 
 
