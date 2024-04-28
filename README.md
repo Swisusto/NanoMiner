@@ -1,5 +1,7 @@
 # NanoMiner
 Arduino Nano Miner for Duino Coin
+![DuinoCoinI2C_3xNano](https://github.com/Swisusto/NanoMiner/assets/62308320/aea5d9ee-71ad-413c-aa11-4e044f7179e6)
+
 
 <h3>PARTS</h3>
 9 ARDUINO NANO (old or new BOOTLOADER)
